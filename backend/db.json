@@ -1,0 +1,64 @@
+{
+  "pensamentos": [
+    {
+      "id": "1",
+      "conteudo": "Todos os homens sonham: mas não do mesmo jeito. Aqueles que sonham de noite nos recessos empoeirados de suas mentes acordam no dia seguinte para descobrir que seus sonhos eram vaidades: mas aqueles que sonham de dia são homens perigosos, pois podem atuar em seus sonhos com os olhos abertos para torná-los realidade.",
+      "autoria": "T. E. Lawrence",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "2",
+      "conteudo": "A arte de governar requer mais caráter do que inteligência.",
+      "autoria": "T. E. Lawrence",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "3",
+      "conteudo": "Muitas vezes as coisas que me pareceram verdadeiras quando comecei a concebê-las tornaram-se falsas quando quis colocá-las sobre o papel.",
+      "autoria": "René Descartes",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "4",
+      "conteudo": "A vantagem de ter péssima memória é divertir-se muitas vezes com as mesmas coisas boas como se fosse a primeira vez.",
+      "autoria": "Friedrich Nietzsche",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "5",
+      "conteudo": "A vida vai ficando cada vez mais dura perto do topo.",
+      "autoria": "Friedrich Nietzsche",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "6",
+      "conteudo": "Para a maioria, quão pequena é a porção de prazer que basta para fazer a vida agradável!",
+      "autoria": "Friedrich Nietzsche",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "7",
+      "conteudo": "Não importa o que você estude sobre, JavaScript sempre será uma merda",
+      "autoria": "Flávio Miranda",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "8fd9",
+      "conteudo": "Viver sem filosofar é o que se chama ter os olhos fechados sem nunca os haver tentado abrir.",
+      "autoria": "René Descartes",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "a74d",
+      "conteudo": "Eu acredito que às vezes são as pessoas que ninguém espera nada, que fazem as coisas que ninguém consegue imaginar.",
+      "autoria": "Alan Turing",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "e160",
+      "conteudo": "Nós só podemos ver um pouco do futuro, mas o suficiente para perceber que há muito a fazer.",
+      "autoria": "Alan Turing",
+      "modelo": "modelo1"
+    }
+  ]
+}
